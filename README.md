@@ -1,6 +1,6 @@
 # Computational and neural mechanisms of statistical pain learning
 
-Flavia Mancini,Suyi Zhang, Ben Seymour
+Suyi Zhang, Ben Seymour, Flavia Mancini
 
 In press in Nature Communications
 
