@@ -16,7 +16,8 @@ if __name__ == "__main__":
 
     # gather connames
     # conname_list = ['con_0001', 'con_0002']
-    tmp = opj(experiment_dir, output_1st_dir, '1stLevel', 'sub-06')
+    # tmp = opj(experiment_dir, output_1st_dir, '1stLevel', 'sub-06')
+    tmp = opj(experiment_dir, output_1st_dir, '1stLevel', 'sub-08')
     conname_list = []
     for f in os.listdir(tmp):
         if f.startswith('con_'):
