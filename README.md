@@ -1,8 +1,10 @@
-# Learning the statistics of pain: computational and neural mechanisms
+# Computational and neural mechanisms of statistical pain learning
 
 Flavia Mancini,Suyi Zhang, Ben Seymour
 
-doi: https://doi.org/10.1101/2021.10.21.465270
+In press in Nature Communications
+
+An older version of the paper: doi: https://doi.org/10.1101/2021.10.21.465270
 
 
 ## Usage
@@ -20,7 +22,7 @@ For imaging analysis,
 * imaging (1st and 2nd level analysis scripts based on nipype)
 * imaging_plot (result visualisation using nilearn)
 
-Please change data paths and parameter settings within the scripts. The analysis code is written by Suyi Zhang and can also be found on [her GitHub page](https://github.com/syzhang/tsl_paper).
+Please change data paths and parameter settings within the scripts. The analysis code is written by Suyi Zhang.
 
 
 The raw MRI data are available on [OpenNeuro](https://openneuro.org/datasets/ds003836).
