@@ -2,7 +2,7 @@
 
 Suyi Zhang, Ben Seymour, Flavia Mancini
 
-In press in Nature Communications
+Mancini, F., Zhang, S. & Seymour, B. Computational and neural mechanisms of statistical pain learning. Nat Commun 13, 6613 (2022). https://doi.org/10.1038/s41467-022-34283-9
 
 An older version of the paper: doi: https://doi.org/10.1101/2021.10.21.465270
 
